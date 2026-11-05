@@ -1,10 +1,10 @@
 variable "project_id" {
-    description = "GCP project which owns the project"
-    type = string
+  description = "GCP project which owns the project"
+  type        = string
 }
 
 variable "name" {
-    description = "Globally unique bucket name"
+  description = "Globally unique bucket name"
 }
 variable "location" {
   description = "Bucket location. Keep equal to the BigQuery dataset location."

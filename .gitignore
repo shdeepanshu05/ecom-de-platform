@@ -1,0 +1,22 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.env
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+tfplan
+crash.log
+backend.hcl
+terraform.tfvars
+
+# Credentials: should never exist here, but guard anyway
+*-key.json
+application_default_credentials.json
+
+# Editor / OS
+.vscode/
+Thumbs.db

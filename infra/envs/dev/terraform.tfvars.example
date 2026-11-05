@@ -1,0 +1,4 @@
+project_id         = "ecom-de-dev-3552"
+environment        = "dev"
+force_destroy      = true
+raw_retention_days = 90

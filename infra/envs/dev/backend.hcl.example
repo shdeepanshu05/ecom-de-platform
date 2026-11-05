@@ -1,0 +1,2 @@
+bucket = "ecom-de-dev-3552-tfstate"
+prefix = "envs/dev"

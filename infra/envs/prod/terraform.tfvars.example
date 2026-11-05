@@ -1,0 +1,4 @@
+project_id         = "ecom-de-dev-3552"
+environment        = "prod"
+force_destroy      = false
+raw_retention_days = null
