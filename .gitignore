@@ -20,3 +20,4 @@ application_default_credentials.json
 # Editor / OS
 .vscode/
 Thumbs.db
+data/
